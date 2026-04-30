@@ -1,16 +1,32 @@
-# insomnia
+# DreamWave 🌙
 
-A new Flutter project.
+DreamWave is a calm and relaxing mobile application built with Flutter.  
+It is designed to help users unwind through soothing content like short stories, calming music, and simple meditation tips.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📖 Collection of calming short stories  
+- 🎵 Relaxing background music/songs  
+- 🧘 Simple meditation and mindfulness tips  
+- 🌿 Clean and minimal UI focused on relaxation  
+- 📱 Smooth and responsive mobile experience  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter  
+- Dart  
+- Local assets (audio & text content)  
+- Material Design UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Purpose
+
+The goal of DreamWave is to create a peaceful digital space that helps users reduce stress and improve focus through light and calming content.
+
+## 🚀 How to Run
+
+1. Clone the repository  
+2. Run the following commands:
+
+```bash
+flutter pub get
+flutter run
